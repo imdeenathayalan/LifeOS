@@ -1,0 +1,12 @@
+{
+  "name": "LifeOS",
+  "short_name": "LifeOS",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F7FB",
+  "theme_color": "#3157D5",
+  "description": "Premium AI personal operating system.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
