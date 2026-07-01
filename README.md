@@ -21,7 +21,7 @@ flutter pub get
 flutter run -d chrome --dart-define=SUPABASE_URL=https://your-project.supabase.co --dart-define=SUPABASE_ANON_KEY=your-anon-key
 ```
 
-The app also runs without Supabase defines and falls back to the mock repository.
+The app includes your Supabase project URL and publishable key as development defaults. You can still override them with `--dart-define` for staging or production builds.
 
 For a new Flutter checkout, generate platform folders once:
 
